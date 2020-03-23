@@ -7,4 +7,4 @@ View my [LinkedIn](https://www.linkedin.com/in/vdberger/)
 My portfolio focuses on three categories: 
 * Technical Writing
 * Project Management
-* Proposal Management
+* Proposal Writing
