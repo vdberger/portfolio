@@ -1,6 +1,6 @@
 # Portfolio
 
-View my [portfolio](vdberger1030.wixsite.com/portfolio)
+View my [portfolio](https://vdberger1030.wixsite.com/portfolio)
 
 View my [LinkedIn](https://www.linkedin.com/in/vdberger/)
 
